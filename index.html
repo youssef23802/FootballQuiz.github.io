@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Football Quiz</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="pagetitle"><span class="icon"><i class="fas fa-futbol"></i></span>Football Quiz<span class="icon"><i class="fas fa-futbol"></i></span></div>
+
+    <div class="start_btn"><button>Start Quiz</button></div>
+    <div class="info_box">
+        <div class="info-title"><span>Some Rules of this Quiz</span></div>
+        <div class="info-list">
+            <div class="info">1. You will have only <span>15 seconds</span> per each question.</div>
+            <div class="info">2. Once you select your answer, it can't be undone.</div>
+            <div class="info">3. You can't select any option once time goes off.</div>
+            <div class="info">4. You can't exit from the Quiz while you're playing.</div>
+            <div class="info">5. You'll get points on the basis of your correct answers.</div>
+        </div>
+        <div class="buttons">
+            <button class="quit">Exit Quiz</button>
+            <button class="restart">Next</button>
+        </div>
+    </div>
+    <div class="advice_box">
+        <div class="advice-title">Advice For The Quiz </div>
+        <div class="advice-list">
+            <div class="advice"><strong>-Use Your Lifelines Wisely :</strong>  Lifelines like  <strong>"</strong> <i class="fas fa-users"></i> : Ask the Audience<strong>"</strong> , <strong>"</strong> <i class="fas fa-phone"></i> : Phone a Friend<strong>"</strong> and <strong>"</strong> <i class="fas fa-random"></i> : 50/50<strong>"</strong>   can be very helpful. Save them for when you're really stuck.</div>
+            <div class="advice"><strong>-Eliminate Wrong Answers :</strong> If you're not sure, try to eliminate obviously wrong answers. This can improve your chances even if you're unsure of the correct answer.</div>
+            <div class="advice"><strong>-Take Your Time :</strong> Don't rush, Take a moment to think through the question and your options before answering.</div>
+            <div class="advice"><strong>-Stay Calm :</strong> Nerves can affect your performance Try to stay calm and focused.</div>
+            <div class="advice"><strong>-Winning and Scoring :</strong> Your score will be based on the number of correct answers. The more correct answers you have, the higher your score will be.</div>
+        </div>
+        <div class="buttons">
+            <button class="quit">Back</button>
+            <button class="restart">Start Quiz</button>
+        </div>
+    </div>
+
+    <div class="quiz_box">
+        <header>
+            <div class="title">Football Quiz Application</div>
+            <div class="timer">
+                <div class="time_left_txt">Time Left</div>
+                <div class="timer_sec">15</div>
+            </div>
+            <div class="time_line"></div>
+        </header>
+        <section>
+            <div class="que_text">
+            </div>
+            <div class="option_list">
+            </div>
+            <div class="buttons">
+                <button id="fiftyFiftyBtn"><i class="fas fa-random"></i></button>
+                <button id="phoneAFriendBtn"><i class="fas fa-phone"></i></button>
+                <button id="askTheAudienceBtn"><i class="fas fa-users"></i></button>
+            </div>
+            <div class="comment_box">
+                <div class="comment_text"></div>
+            </div>            
+        </section>
+        <footer>
+            <div class="total_que">
+            </div>
+            <button class="next_btn">Next</button>
+        </footer>
+    </div>
+
+    <div class="result_box">
+        <div class="icon">
+            <i class="fas fa-futbol"></i>
+        </div>
+        <div class="complete_text">You've completed the Quiz!</div>
+        <div class="score_text">
+        </div>
+        <div class="buttons">
+            <button class="restart">Replay Quiz</button>
+            <button class="quit">Quit Quiz</button>
+        </div>
+        <div class="comment_box">
+            <span class="comment_text"></span>
+        </div>
+        
+    </div>
+    <script src="quiz.js"></script>
+</body>
+</html>

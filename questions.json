@@ -1,0 +1,154 @@
+[
+    {
+        "numb": 1,
+        "question": "How many players are there in a football team?",
+        "answer": "11",
+        "options": [
+            "10",
+            "12",
+            "9",
+            "11"
+        ],
+        "commentCorrect": "Correct! A football team has 11 players on the field.",
+        "commentIncorrect": "Sorry, a football team actually has 11 players on the field."
+    },
+    {
+        "numb": 2,
+        "question": "Which player is known as 'The King of Football'?",
+        "answer": "Messi",
+        "options": [
+            "Messi",
+            "Ronaldo",
+            "Maradona",
+            "Pele"
+        ],
+        "commentCorrect": "Correct! Messi is known as 'The King of Football'.",
+        "commentIncorrect": "Sorry, Messi is known as 'The King of Football'."
+    },
+    {
+        "numb": 3,
+        "question": "How many World Cup titles has Brazil won?",
+        "answer": "5",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "commentCorrect": "Correct! Brazil has won 5 World Cup titles.",
+        "commentIncorrect": "Sorry, Brazil has won 5 World Cup titles."
+    },
+    {
+        "numb": 4,
+        "question": "Which country won the first ever FIFA World Cup in 1930?",
+        "answer": "Uruguay",
+        "options": [
+            "Uruguay",
+            "Brazil",
+            "Argentina",
+            "Germany"
+        ],
+        "commentCorrect": "Correct! Uruguay won the first ever FIFA World Cup in 1930.",
+        "commentIncorrect": "Sorry, Uruguay won the first ever FIFA World Cup in 1930."
+    },
+    {
+        "numb": 5,
+        "question": "In which country was the modern version of football born?",
+        "answer": "England",
+        "options": [
+            "Brazil",
+            "Germany",
+            "Argentina",
+            "England"
+        ],
+        "commentCorrect": "Correct! The modern version of football was born in England.",
+        "commentIncorrect": "Sorry, the modern version of football was born in England."
+    },
+    {
+        "numb": 6,
+        "question": "Which football club is known as 'The Red Devils'?",
+        "answer": "Manchester United",
+        "options": [
+            "Real Madrid",
+            "Manchester City",
+            "Chelsea",
+            "Manchester United"
+        ],
+        "commentCorrect": "Correct! Manchester United is known as 'The Red Devils'.",
+        "commentIncorrect": "Sorry, Manchester United is known as 'The Red Devils'."
+    },
+    {
+        "numb": 7,
+        "question": "Which player has scored the most goals in a single Premier League season?",
+        "answer": "Mohamed Salah",
+        "options": [
+            "Lionel Messi",
+            "Cristiano Ronaldo",
+            "Luis Suarez",
+            "Mohamed Salah"
+        ],
+        "commentCorrect": "Correct! Mohamed Salah scored the most goals in a single Premier League season.",
+        "commentIncorrect": "Sorry, Mohamed Salah scored the most goals in a single Premier League season."
+    },
+    {
+        "numb": 8,
+        "question": "Which country hosted the 2018 FIFA World Cup?",
+        "answer": "Russia",
+        "options": [
+            "France",
+            "Germany",
+            "Russia",
+            "Brazil"
+        ],
+        "commentCorrect": "Correct! Russia hosted the 2018 FIFA World Cup.",
+        "commentIncorrect": "Sorry, Russia hosted the 2018 FIFA World Cup."
+    },
+    {
+        "numb": 9,
+        "question": "A red card in football means the player is sent off the field and the team plays with one less player.",
+        "answer": "True",
+        "options": [
+            "True",
+            "False"
+        ],
+        "commentCorrect": "Correct! A red card in football means the player is sent off the field and the team plays with one less player.",
+        "commentIncorrect": "Sorry, a red card in football means the player is sent off the field and the team plays with one less player."
+    },
+    {
+        "numb": 10,
+        "question": "Which player has won the most FIFA Ballon d'Or awards?",
+        "answer": "Lionel Messi",
+        "options": [
+            "Cristiano Ronaldo",
+            "Lionel Messi",
+            "Michel Platini",
+            "Johan Cruyff"
+        ],
+        "commentCorrect": "Correct! Lionel Messi has won the most FIFA Ballon d'Or awards.",
+        "commentIncorrect": "Sorry, Lionel Messi has won the most FIFA Ballon d'Or awards."
+    },
+    {
+        "numb": 11,
+        "question": "Which stadium is known as 'The Theatre of Dreams'?",
+        "answer": "Old Trafford",
+        "options": [
+            "Anfield",
+            "Camp Nou",
+            "Old Trafford",
+            "Santiago Bernabeu"
+        ],
+        "commentCorrect": "Correct! Old Trafford is known as 'The Theatre of Dreams'.",
+        "commentIncorrect": "Sorry, Old Trafford is known as 'The Theatre of Dreams'."
+    },
+    {
+        "numb": 12,
+        "question": "The FIFA World Cup is held every two years.",
+        "answer": "False",
+        "options": [
+            "True",
+            "False"
+        ],
+        "commentCorrect": "Correct! The FIFA World Cup is held every four years.",
+        "commentIncorrect": "Sorry, the FIFA World Cup is held every four years."
+    }
+]
